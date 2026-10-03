@@ -11,8 +11,8 @@ A small REST API for managing a reading list: add books, mark them as reading or
 You need Python 3.9 or newer. No `pip install`, no virtual environment.
 
 ```bash
-git clone https://github.com/Humairah9/aisha-reading-list-api.git
-cd aisha-reading-list-api
+git clone https://github.com/Humairah9/aisha-reading-list-rest-api.git
+cd aisha-reading-list-rest-api
 
 python3 -m unittest -v     # run all tests (about half a second)
 python3 app.py             # start the API on http://127.0.0.1:8000
